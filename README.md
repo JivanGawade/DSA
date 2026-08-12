@@ -11,11 +11,13 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
 ## Math
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
+| [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
 | ------- |
