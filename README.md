@@ -20,6 +20,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 ## Newton's Method
@@ -38,6 +39,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
+| [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/JivanGawade/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JivanGawade/DSA/tree/master/0119-pascals-triangle-ii) |
 ## Backtracking
@@ -56,4 +58,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
