@@ -35,6 +35,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/JivanGawade/DSA/tree/master/0038-count-and-say) |
 ## Dynamic Programming
 |  |
 | ------- |
