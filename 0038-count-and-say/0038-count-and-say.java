@@ -14,6 +14,7 @@ class Solution {
             if (s.charAt(i) == s.charAt(j)) {
                 j++;
             } else {
+
                 int freq = j - i;
                 ans.append(freq).append(s.charAt(i));
                 i = j;
