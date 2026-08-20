@@ -22,6 +22,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | ------- |
 | [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
+| [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
@@ -59,8 +60,13 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
+| [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
