@@ -11,11 +11,13 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0118-pascals-triangle](https://github.com/JivanGawade/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JivanGawade/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
 ## Math
@@ -24,6 +26,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 ## Newton's Method
 |  |
@@ -33,6 +36,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -74,4 +78,9 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/JivanGawade/DSA/tree/master/0041-first-missing-positive) |
+| [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
+## Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
