@@ -95,6 +95,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JivanGawade/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/JivanGawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -109,6 +110,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/JivanGawade/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/JivanGawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
