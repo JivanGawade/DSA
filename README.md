@@ -84,6 +84,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/JivanGawade/DSA/tree/master/0041-first-missing-positive) |
+| [0160-intersection-of-two-linked-lists](https://github.com/JivanGawade/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
@@ -96,6 +97,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JivanGawade/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/JivanGawade/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/JivanGawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -111,6 +113,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JivanGawade/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/JivanGawade/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/JivanGawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
