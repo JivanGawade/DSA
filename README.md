@@ -16,6 +16,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
+| [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,11 +68,13 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
+| [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
+| [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -137,6 +140,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0876-middle-of-the-linked-list](https://github.com/JivanGawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Recursion
 |  |
 | ------- |
