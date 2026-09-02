@@ -14,7 +14,6 @@ class Solution {
         ListNode tail = dummy;
 
         while (!minHeap.isEmpty()) {
-            // Extract the smallest node
             ListNode smallest = minHeap.poll();
             tail.next = smallest;
             tail = tail.next;
