@@ -89,6 +89,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/JivanGawade/DSA/tree/master/0041-first-missing-positive) |
+| [0138-copy-list-with-random-pointer](https://github.com/JivanGawade/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JivanGawade/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JivanGawade/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/JivanGawade/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -136,6 +137,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JivanGawade/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/JivanGawade/DSA/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/JivanGawade/DSA/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/JivanGawade/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JivanGawade/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JivanGawade/DSA/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
