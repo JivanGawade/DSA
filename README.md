@@ -153,6 +153,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/JivanGawade/DSA/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -160,12 +161,14 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/JivanGawade/DSA/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/JivanGawade/DSA/tree/master/0445-add-two-numbers-ii) |
+| [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,4 +193,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/JivanGawade/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 <!---LeetCode Topics End-->
