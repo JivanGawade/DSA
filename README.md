@@ -52,6 +52,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0020-valid-parentheses](https://github.com/JivanGawade/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/JivanGawade/DSA/tree/master/0038-count-and-say) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JivanGawade/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -171,6 +172,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/JivanGawade/DSA/tree/master/0445-add-two-numbers-ii) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JivanGawade/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Divide and Conquer
 |  |
