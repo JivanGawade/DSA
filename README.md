@@ -49,6 +49,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JivanGawade/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/JivanGawade/DSA/tree/master/0038-count-and-say) |
 ## Dynamic Programming
@@ -65,6 +66,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JivanGawade/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
 ## Matrix
 |  |
@@ -165,6 +167,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/JivanGawade/DSA/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/JivanGawade/DSA/tree/master/0445-add-two-numbers-ii) |
