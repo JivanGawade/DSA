@@ -18,6 +18,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
+| [1929-concatenation-of-array](https://github.com/JivanGawade/DSA/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -82,6 +83,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
+| [1929-concatenation-of-array](https://github.com/JivanGawade/DSA/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Combinatorics
 |  |
