@@ -187,6 +187,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0084-largest-rectangle-in-histogram](https://github.com/JivanGawade/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/JivanGawade/DSA/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/JivanGawade/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0503-next-greater-element-ii](https://github.com/JivanGawade/DSA/tree/master/0503-next-greater-element-ii) |
@@ -234,4 +235,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/JivanGawade/DSA/tree/master/0084-largest-rectangle-in-histogram) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/JivanGawade/DSA/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
