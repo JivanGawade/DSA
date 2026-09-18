@@ -190,6 +190,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0020-valid-parentheses](https://github.com/JivanGawade/DSA/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JivanGawade/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
+| [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/JivanGawade/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JivanGawade/DSA/tree/master/0225-implement-stack-using-queues) |
@@ -220,6 +221,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/JivanGawade/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -253,4 +255,12 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0225-implement-stack-using-queues](https://github.com/JivanGawade/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JivanGawade/DSA/tree/master/0232-implement-queue-using-stacks) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
