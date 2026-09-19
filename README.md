@@ -229,6 +229,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/JivanGawade/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -269,6 +270,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
 |  |
@@ -276,9 +278,14 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
+| [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
 |  |
 | ------- |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
