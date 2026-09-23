@@ -238,6 +238,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/JivanGawade/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -285,6 +286,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +301,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -311,6 +314,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -319,4 +323,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 <!---LeetCode Topics End-->
