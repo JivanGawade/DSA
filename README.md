@@ -235,6 +235,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/JivanGawade/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
@@ -281,6 +282,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 ## Binary Tree
@@ -294,6 +296,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 ## Cartesian Tree
@@ -308,4 +311,12 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
