@@ -242,6 +242,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/JivanGawade/DSA/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Doubly-Linked List
 |  |
@@ -291,6 +292,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
@@ -308,6 +310,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
+| [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Cartesian Tree
@@ -336,4 +339,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
