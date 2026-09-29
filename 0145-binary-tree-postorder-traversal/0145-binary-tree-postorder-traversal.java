@@ -1,15 +1,18 @@
 
 class Solution {
     public List<Integer> postorderTraversal(TreeNode root) {
-        List<Integer> ans=new ArrayList<>();
-        traverse(root ,ans);
-        return ans;
+    ArrayList<Integer> ans=new ArrayList<>();
+    Stack<TreeNode> st=new Stack<>();
+    st.push(root);
+    while(st.size()>0){
+        if(root==null)return ans;
+        TreeNode top=st.pop();
+        ans.add(top.val);
+        if(top.left !=null)st.push(top.left);
+        if(top.right !=null)st.push(top.right);
     }
-    public static void traverse(TreeNode root,List<Integer> ans){
-        if(root==null)return;
-        traverse(root.left,ans);
-        traverse(root.right,ans);
-        ans.add(root.val);
+    Collections.reverse(ans);
+    return ans;
     }
 
 }
