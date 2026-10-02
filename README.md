@@ -10,6 +10,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JivanGawade/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/JivanGawade/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JivanGawade/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
@@ -113,6 +114,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/JivanGawade/DSA/tree/master/0041-first-missing-positive) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0138-copy-list-with-random-pointer](https://github.com/JivanGawade/DSA/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/JivanGawade/DSA/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/JivanGawade/DSA/tree/master/0142-linked-list-cycle-ii) |
@@ -216,6 +218,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JivanGawade/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -286,6 +289,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0100-same-tree](https://github.com/JivanGawade/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JivanGawade/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -305,6 +309,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0100-same-tree](https://github.com/JivanGawade/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JivanGawade/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
