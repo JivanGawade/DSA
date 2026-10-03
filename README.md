@@ -23,6 +23,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JivanGawade/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/JivanGawade/DSA/tree/master/1470-shuffle-the-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -211,6 +212,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0503-next-greater-element-ii](https://github.com/JivanGawade/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JivanGawade/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JivanGawade/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
@@ -260,6 +262,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
 | [0503-next-greater-element-ii](https://github.com/JivanGawade/DSA/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JivanGawade/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Counting Sort
@@ -302,6 +305,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
@@ -322,6 +326,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -348,6 +353,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
 | ------- |
