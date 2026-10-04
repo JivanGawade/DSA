@@ -82,6 +82,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
+| [0113-path-sum-ii](https://github.com/JivanGawade/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
 |  |
@@ -241,6 +242,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0100-same-tree](https://github.com/JivanGawade/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/JivanGawade/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JivanGawade/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -294,6 +296,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/JivanGawade/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JivanGawade/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -315,6 +318,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/JivanGawade/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JivanGawade/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0145-binary-tree-postorder-traversal) |
