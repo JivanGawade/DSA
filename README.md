@@ -254,6 +254,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JivanGawade/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -311,6 +312,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Binary Tree
 |  |
@@ -335,6 +337,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Cartesian Tree
 |  |
@@ -365,6 +368,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JivanGawade/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## DP on Trees
 |  |
