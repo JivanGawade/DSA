@@ -11,6 +11,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0084-largest-rectangle-in-histogram](https://github.com/JivanGawade/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/JivanGawade/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JivanGawade/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
@@ -222,6 +223,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JivanGawade/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 ## Heap (Priority Queue)
 |  |
@@ -297,6 +299,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/JivanGawade/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JivanGawade/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -323,6 +326,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/JivanGawade/DSA/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/JivanGawade/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
@@ -367,6 +371,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Binary Search Tree
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JivanGawade/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
