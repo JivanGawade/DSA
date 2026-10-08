@@ -241,6 +241,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JivanGawade/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/JivanGawade/DSA/tree/master/0112-path-sum) |
@@ -295,6 +296,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JivanGawade/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -322,6 +324,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0098-validate-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/JivanGawade/DSA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/JivanGawade/DSA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/JivanGawade/DSA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -371,6 +374,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Binary Search Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JivanGawade/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0700-search-in-a-binary-search-tree) |
