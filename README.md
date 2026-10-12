@@ -79,6 +79,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/JivanGawade/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JivanGawade/DSA/tree/master/0119-pascals-triangle-ii) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Backtracking
 |  |
 | ------- |
@@ -260,6 +261,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JivanGawade/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -324,6 +326,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JivanGawade/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -354,6 +357,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JivanGawade/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Cartesian Tree
 |  |
 | ------- |
@@ -390,8 +394,10 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JivanGawade/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## DP on Trees
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0543-diameter-of-binary-tree) |
+| [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 <!---LeetCode Topics End-->
