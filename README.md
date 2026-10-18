@@ -26,6 +26,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JivanGawade/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/JivanGawade/DSA/tree/master/1470-shuffle-the-array) |
@@ -138,6 +139,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JivanGawade/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Two Pointers
 |  |
@@ -233,16 +235,19 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JivanGawade/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JivanGawade/DSA/tree/master/0023-merge-k-sorted-lists) |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 ## Tournament Sort
 |  |
 | ------- |
@@ -288,6 +293,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Counting Sort
 |  |
 | ------- |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JivanGawade/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Range Minimum/Maximum Query
 |  |
@@ -416,4 +422,12 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
