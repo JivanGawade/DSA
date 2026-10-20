@@ -56,6 +56,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/JivanGawade/DSA/tree/master/0445-add-two-numbers-ii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2235-add-two-integers](https://github.com/JivanGawade/DSA/tree/master/2235-add-two-integers) |
 ## Newton's Method
 |  |
 | ------- |
