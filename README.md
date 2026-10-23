@@ -25,6 +25,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0503-next-greater-element-ii](https://github.com/JivanGawade/DSA/tree/master/0503-next-greater-element-ii) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0654-maximum-binary-tree) |
+| [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
@@ -46,6 +47,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
 ## Math
 |  |
@@ -146,6 +148,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0347-top-k-frequent-elements](https://github.com/JivanGawade/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
+| [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/JivanGawade/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JivanGawade/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -162,6 +165,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0160-intersection-of-two-linked-lists](https://github.com/JivanGawade/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/JivanGawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -253,6 +257,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/JivanGawade/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 | [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/JivanGawade/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/JivanGawade/DSA/tree/master/1046-last-stone-weight) |
@@ -455,4 +460,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/JivanGawade/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
