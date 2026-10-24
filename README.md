@@ -359,6 +359,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0701-insert-into-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JivanGawade/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -391,6 +392,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0701-insert-into-a-binary-search-tree](https://github.com/JivanGawade/DSA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0938-range-sum-of-bst](https://github.com/JivanGawade/DSA/tree/master/0938-range-sum-of-bst) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/JivanGawade/DSA/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/JivanGawade/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -409,6 +411,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0226-invert-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0226-invert-binary-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/JivanGawade/DSA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/JivanGawade/DSA/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/JivanGawade/DSA/tree/master/0958-check-completeness-of-a-binary-tree) |
 ## Binary Lifting
 |  |
 | ------- |
