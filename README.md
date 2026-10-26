@@ -145,6 +145,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/JivanGawade/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JivanGawade/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
@@ -165,6 +166,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0160-intersection-of-two-linked-lists](https://github.com/JivanGawade/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/JivanGawade/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/JivanGawade/DSA/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/JivanGawade/DSA/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -255,6 +257,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/JivanGawade/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/JivanGawade/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/JivanGawade/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
@@ -325,6 +328,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0155-min-stack](https://github.com/JivanGawade/DSA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/JivanGawade/DSA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/JivanGawade/DSA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/JivanGawade/DSA/tree/master/0295-find-median-from-data-stream) |
 ## Queue
 |  |
 | ------- |
@@ -471,4 +475,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/JivanGawade/DSA/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
