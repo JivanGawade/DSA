@@ -53,6 +53,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/JivanGawade/DSA/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/JivanGawade/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
