@@ -6,6 +6,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/JivanGawade/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/JivanGawade/DSA/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JivanGawade/DSA/tree/master/0084-largest-rectangle-in-histogram) |
@@ -41,6 +42,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/JivanGawade/DSA/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/JivanGawade/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
