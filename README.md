@@ -6,6 +6,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/JivanGawade/DSA/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/JivanGawade/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/JivanGawade/DSA/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
@@ -160,6 +161,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/JivanGawade/DSA/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/JivanGawade/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/JivanGawade/DSA/tree/master/0061-rotate-list) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/JivanGawade/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0086-partition-list](https://github.com/JivanGawade/DSA/tree/master/0086-partition-list) |
