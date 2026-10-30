@@ -17,6 +17,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0118-pascals-triangle](https://github.com/JivanGawade/DSA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/JivanGawade/DSA/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/JivanGawade/DSA/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/JivanGawade/DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/JivanGawade/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
