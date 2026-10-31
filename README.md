@@ -59,6 +59,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0007-reverse-integer](https://github.com/JivanGawade/DSA/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/JivanGawade/DSA/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
@@ -74,6 +75,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JivanGawade/DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/JivanGawade/DSA/tree/master/0222-count-complete-tree-nodes) |
@@ -86,6 +88,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0020-valid-parentheses](https://github.com/JivanGawade/DSA/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/JivanGawade/DSA/tree/master/0038-count-and-say) |
+| [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JivanGawade/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
@@ -119,6 +122,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
