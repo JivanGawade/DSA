@@ -61,6 +61,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0062-unique-paths](https://github.com/JivanGawade/DSA/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/JivanGawade/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
@@ -79,6 +80,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JivanGawade/DSA/tree/master/0137-single-number-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/JivanGawade/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
@@ -226,6 +228,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0021-merge-two-sorted-lists](https://github.com/JivanGawade/DSA/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/JivanGawade/DSA/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/JivanGawade/DSA/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
