@@ -93,6 +93,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/JivanGawade/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/JivanGawade/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -127,6 +128,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/JivanGawade/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/JivanGawade/DSA/tree/master/1929-concatenation-of-array) |
 | [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
@@ -230,6 +232,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0206-reverse-linked-list](https://github.com/JivanGawade/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/JivanGawade/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
 ## Stack
