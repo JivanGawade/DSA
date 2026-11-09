@@ -64,6 +64,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/JivanGawade/DSA/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/JivanGawade/DSA/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/JivanGawade/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/JivanGawade/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -85,6 +86,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/JivanGawade/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
 ## String
 |  |
@@ -234,6 +236,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0206-reverse-linked-list](https://github.com/JivanGawade/DSA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/JivanGawade/DSA/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/JivanGawade/DSA/tree/master/0342-power-of-four) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/JivanGawade/DSA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2487-remove-nodes-from-linked-list](https://github.com/JivanGawade/DSA/tree/master/2487-remove-nodes-from-linked-list) |
