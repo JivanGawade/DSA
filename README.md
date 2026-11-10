@@ -10,6 +10,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0035-search-insert-position](https://github.com/JivanGawade/DSA/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/JivanGawade/DSA/tree/master/0041-first-missing-positive) |
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
+| [0078-subsets](https://github.com/JivanGawade/DSA/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/JivanGawade/DSA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/JivanGawade/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -78,6 +79,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/JivanGawade/DSA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/JivanGawade/DSA/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JivanGawade/DSA/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/JivanGawade/DSA/tree/master/0190-reverse-bits) |
@@ -111,6 +113,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/JivanGawade/DSA/tree/master/0022-generate-parentheses) |
+| [0078-subsets](https://github.com/JivanGawade/DSA/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/JivanGawade/DSA/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/JivanGawade/DSA/tree/master/0257-binary-tree-paths) |
 ## Bracket Sequences
