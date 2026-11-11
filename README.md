@@ -90,6 +90,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/JivanGawade/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
+| [2220-minimum-bit-flips-to-convert-number](https://github.com/JivanGawade/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
 |  |
 | ------- |
