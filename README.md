@@ -69,6 +69,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0441-arranging-coins](https://github.com/JivanGawade/DSA/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/JivanGawade/DSA/tree/master/0445-add-two-numbers-ii) |
 | [0973-k-closest-points-to-origin](https://github.com/JivanGawade/DSA/tree/master/0973-k-closest-points-to-origin) |
+| [1486-xor-operation-in-an-array](https://github.com/JivanGawade/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2235-add-two-integers](https://github.com/JivanGawade/DSA/tree/master/2235-add-two-integers) |
 ## Newton's Method
@@ -90,6 +91,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/JivanGawade/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
+| [1486-xor-operation-in-an-array](https://github.com/JivanGawade/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JivanGawade/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
 |  |
