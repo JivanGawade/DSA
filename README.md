@@ -32,6 +32,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0658-find-k-closest-elements](https://github.com/JivanGawade/DSA/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/JivanGawade/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/JivanGawade/DSA/tree/master/0704-binary-search) |
+| [0861-score-after-flipping-matrix](https://github.com/JivanGawade/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/JivanGawade/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/JivanGawade/DSA/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -91,6 +92,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/JivanGawade/DSA/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
+| [0861-score-after-flipping-matrix](https://github.com/JivanGawade/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [1486-xor-operation-in-an-array](https://github.com/JivanGawade/DSA/tree/master/1486-xor-operation-in-an-array) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/JivanGawade/DSA/tree/master/2220-minimum-bit-flips-to-convert-number) |
 ## String
@@ -130,6 +132,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0054-spiral-matrix](https://github.com/JivanGawade/DSA/tree/master/0054-spiral-matrix) |
 | [0085-maximal-rectangle](https://github.com/JivanGawade/DSA/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/JivanGawade/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0861-score-after-flipping-matrix](https://github.com/JivanGawade/DSA/tree/master/0861-score-after-flipping-matrix) |
 | [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Simulation
 |  |
@@ -509,4 +512,8 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/JivanGawade/DSA/tree/master/0295-find-median-from-data-stream) |
+## Greedy
+|  |
+| ------- |
+| [0861-score-after-flipping-matrix](https://github.com/JivanGawade/DSA/tree/master/0861-score-after-flipping-matrix) |
 <!---LeetCode Topics End-->
