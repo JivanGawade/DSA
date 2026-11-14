@@ -20,6 +20,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0136-single-number](https://github.com/JivanGawade/DSA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/JivanGawade/DSA/tree/master/0137-single-number-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/JivanGawade/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0260-single-number-iii](https://github.com/JivanGawade/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/JivanGawade/DSA/tree/master/0347-top-k-frequent-elements) |
@@ -88,6 +89,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0191-number-of-1-bits](https://github.com/JivanGawade/DSA/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/JivanGawade/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/JivanGawade/DSA/tree/master/0231-power-of-two) |
+| [0260-single-number-iii](https://github.com/JivanGawade/DSA/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/JivanGawade/DSA/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/JivanGawade/DSA/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/JivanGawade/DSA/tree/master/0342-power-of-four) |
