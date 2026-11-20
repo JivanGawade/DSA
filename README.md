@@ -44,6 +44,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [1823-find-the-winner-of-the-circular-game](https://github.com/JivanGawade/DSA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/JivanGawade/DSA/tree/master/1929-concatenation-of-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/JivanGawade/DSA/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JivanGawade/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2326-spiral-matrix-iv](https://github.com/JivanGawade/DSA/tree/master/2326-spiral-matrix-iv) |
 ## Binary Search
 |  |
@@ -171,6 +172,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0645-set-mismatch](https://github.com/JivanGawade/DSA/tree/master/0645-set-mismatch) |
 | [1207-unique-number-of-occurrences](https://github.com/JivanGawade/DSA/tree/master/1207-unique-number-of-occurrences) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JivanGawade/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JivanGawade/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Sorting
 |  |
 | ------- |
@@ -355,6 +357,7 @@ Data Structures and Algorithms (DSA) problem-solving portfolio. Contains optimiz
 | [0347-top-k-frequent-elements](https://github.com/JivanGawade/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0912-sort-an-array](https://github.com/JivanGawade/DSA/tree/master/0912-sort-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/JivanGawade/DSA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/JivanGawade/DSA/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
